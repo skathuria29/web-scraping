@@ -1,0 +1,27 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Web scraping with node using cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saloni Kathuria",
+  "keywords": [
+    "cheerio",
+    "web scraping",
+    "node",
+    "mongodb",
+    "scraping"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skathuria29/web-scraping.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "mongoose": "^5.8.4"
+  }
+}
